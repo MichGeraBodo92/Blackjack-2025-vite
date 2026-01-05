@@ -13,3 +13,4 @@ Pasos para ejecutar el proyecto:
 2.Tomar la carpeta '''dist''' y desplegarla
 3.Disfruta de la aplicacion
 4.Agradecele al Ingeniero Bodo
+5.Adios
