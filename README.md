@@ -1,4 +1,4 @@
-#BlackJack Vite 2025
+#BlackJack Vite 2025 Ingeniero Michell
 
 Pasos para ejecutar el proyecto:
 
